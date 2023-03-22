@@ -13,5 +13,5 @@ execute_as_caller = true
 database = "HOL_DB"
 schema = "ANALYTICS"
 warehouse = "HOL_WH"
-role = "HOL_ROLE"
+role = "ACCOUNTADMIN"
 overwrite = true
